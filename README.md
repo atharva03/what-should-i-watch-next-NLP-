@@ -1,6 +1,6 @@
 # what-should-i-watch-next-NLP-
 A project in which I have web scrapped transcripts of top 10 ted talks and then have applied various data science 
-Natural Language Processing techniques to learn the implementation of a number of python modules and analyse speech of different speakers  
+Natural Language Processing techniques to learn the implementation of a number of python modules and analyse talks of different speakers  
 
 Techniques Implemented-
   web scrapping,
